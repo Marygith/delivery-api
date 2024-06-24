@@ -13,9 +13,7 @@ import ru.labs.delivery_api.service.DeliveryService;
 @RestController
 @RequiredArgsConstructor
 public class DeliveryController {
-
     private final DeliveryService deliveryService;
-
 
     @PostMapping("/deliverymen")
     public DeliveryMenResponseDto getDeliverymen(@RequestBody DeliveryMenRequestDto request) {
