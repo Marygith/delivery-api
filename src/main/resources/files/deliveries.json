@@ -1,0 +1,102 @@
+[
+  {
+    "order_id": "6222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-04 12:50:27.430000",
+    "delivery_id": "6222053d10v01cqw379td2t8",
+    "deliveryman_id": "68ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Мира, 7, корпус 1, кв. 4",
+    "delivery_time": "2024-12-04 13:11:23.621000",
+    "rating": 5,
+    "tips": 500
+  },
+  {
+    "order_id": "7222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-05 09:15:27.430000",
+    "delivery_id": "7222053d10v01cqw379td2t8",
+    "deliveryman_id": "88ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Ленина, 12, корпус 2, кв. 5",
+    "delivery_time": "2024-12-05 09:45:23.621000",
+    "rating": 4,
+    "tips": 250
+  },
+  {
+    "order_id": "8222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-06 10:30:27.430000",
+    "delivery_id": "8222053d10v01cqw379td2t8",
+    "deliveryman_id": "78ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Пушкина, 5, корпус 3, кв. 7",
+    "delivery_time": "2024-12-06 11:00:23.621000",
+    "rating": 3,
+    "tips": 300
+  },
+  {
+    "order_id": "9222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-07 08:25:27.430000",
+    "delivery_id": "9222053d10v01cqw379td2t8",
+    "deliveryman_id": "98ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Кирова, 15, корпус 4, кв. 8",
+    "delivery_time": "2024-12-07 08:55:23.621000",
+    "rating": 5,
+    "tips": 400
+  },
+  {
+    "order_id": "a222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-08 12:10:27.430000",
+    "delivery_id": "a222053d10v01cqw379td2t8",
+    "deliveryman_id": "88ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Гагарина, 9, корпус 1, кв. 2",
+    "delivery_time": "2024-12-08 12:40:23.621000",
+    "rating": 2,
+    "tips": 150
+  },
+  {
+    "order_id": "b222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-09 14:55:27.430000",
+    "delivery_id": "b222053d10v01cqw379td2t8",
+    "deliveryman_id": "98ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Вавилова, 18, корпус 2, кв. 6",
+    "delivery_time": "2024-12-09 15:25:23.621000",
+    "rating": 1,
+    "tips": 100
+  },
+  {
+    "order_id": "c222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-10 07:40:27.430000",
+    "delivery_id": "c222053d10v01cqw379td2t8",
+    "deliveryman_id": "78ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Свердлова, 22, корпус 3, кв. 9",
+    "delivery_time": "2024-12-10 08:10:23.621000",
+    "rating": 4,
+    "tips": 350
+  },
+  {
+    "order_id": "d222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-11 11:20:27.430000",
+    "delivery_id": "d222053d10v01cqw379td2t8",
+    "deliveryman_id": "88ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Ломоносова, 14, корпус 4, кв. 10",
+    "delivery_time": "2024-12-11 11:50:23.621000",
+    "rating": 5,
+    "tips": 500
+  },
+  {
+    "order_id": "e222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-12 16:35:27.430000",
+    "delivery_id": "e222053d10v01cqw379td2t8",
+    "deliveryman_id": "98ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Тихая, 3, корпус 2, кв. 3",
+    "delivery_time": "2024-12-12 17:05:23.621000",
+    "rating": 3,
+    "tips": 200
+  },
+  {
+    "order_id": "f222053d10v01cqw379td1k9",
+    "order_date_created": "2024-12-13 13:05:27.430000",
+    "delivery_id": "f222053d10v01cqw379td2t8",
+    "deliveryman_id": "68ga56cqwcxm79920ft8lkjhg",
+    "delivery_address": "Ул. Зелёная, 19, корпус 1, кв. 11",
+    "delivery_time": "2024-12-13 13:35:23.621000",
+    "rating": 2,
+    "tips": 50
+  }
+]
